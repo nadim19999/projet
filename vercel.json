@@ -29,6 +29,13 @@
         "VIEW_COMPILED_PATH": "/tmp",
         "CACHE_DRIVER": "array",
         "LOG_CHANNEL": "stderr",
-        "SESSION_DRIVER": "cookie"
+        "SESSION_DRIVER": "cookie",
+        "DB_CONNECTION": "mysql",
+        "DB_HOST": "mysql-2792e1f9-boussarsarnadim-1999.b.aivencloud.com",
+        "DB_PORT": "22937",
+        "DB_DATABASE": "defaultdb",
+        "DB_USERNAME": "nadim",
+        "DB_PASSWORD": "AVNS_i9FE9MA_KDx5weUX07Y",
+        "JWT_SECRET": "1mySa5UOqBtA232tFkfUD0uUcMoSz9Bgm4s62fyZMOim4hxVpQ7thAtdfIWTiL9B"
     }
 }
